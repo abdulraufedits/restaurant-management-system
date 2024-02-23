@@ -1,0 +1,25 @@
+--MENU--
+
+1 French Fries
+2 Dips and Chips
+3 Cheese Sticks
+
+4 Chicken Pattie Burger
+5 Crispy Zinger Burger
+6 Chicken cheese burger
+7 Beef Burger
+8 Beef Cheese Burger
+9 Chicken Sandwich 
+10 Chicken Cheese Sandwich
+11 BBQ Club Sandwich
+12 Mexican Sandwich
+
+13 Chicken Roll
+14 Chicken Cheese Roll
+15 Beef Roll
+16 Beef Cheese Roll
+17 Kabab Roll
+18 Chicken Tikka (Chest)
+19 Chicken Tikka (Leg)
+20 Bihari Tikka (Chest)
+21 Bihari Tikka (Leg)
